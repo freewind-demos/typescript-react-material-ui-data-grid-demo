@@ -1,7 +1,7 @@
-TypeScript React "material-ui" Demo
+TypeScript React "material-ui" Data Grid Demo
 ===================================
 
-如何使用TypeScript来写"material-ui"
+Material-UI推出的数据表，有免费版和收费版
 
 ```
 npm install
